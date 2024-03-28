@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "esoteric-dryad-417202",
+  "private_key_id": "8cd7f2611a9a9d744bf5807ca5032f8a58398c31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCMOAqigxojbe5I\nn/cpMbWbPbUKe9sWbCvPbxMpqNErwZ2Fl6qrUZg03L65loJbcRn4r3w5/GxLaDBe\nxtJYbNY2lCS3AENawRyjmEF+i9wKG6PoSQNnGeE5acjdiZhPNqK7tJ8a8+UnCo3c\n2t3NyUXqM/soSjy3UEsS9cjbK34QycjdlLZanakp5oeBi66JP5/wFSQVeVkx7VEF\nPT+4+IYbGjUNc/LF+l4IbiYNm/YMX54vpP8h2Bci/7a3w++QTP0ax3OUHlvvp8K7\nLCS+nF19fj+X5VWnUv7sit6gHfQg/LFLAa/PYT/3RJxnE/ldj1N6Ze55PRpsi8tY\nrvwgCOR/AgMBAAECggEAIh2yjLbcQbmKC/aL0uSK3LInXd0jwbFg+W/7mBvAhOZv\nVqU/u743C8mXyBz0K555pLXBwnQFv1Uiy7SRUj1s40upITN5r9ejibROXyVVTMpL\n14UIRGoaD/eKjUhgnAldj9ETEyI7Y4PgX1eLNvodPi4Wkkd5vVpWYc8WZykOW7P4\nrrZF74FOYyniu5l6Md7Eyh+2DN4KYPlMYFCZViTykufUdqt8fGrmJXTe623CFsDF\naAkkdcv/jM6/mktxsFVLvIVa7nm6tqKcfh0ZutGsWc67CaDMSl4Hnaq8wZeW5kVA\n3nxReLI3luBSpvyVyF29U5nFw3wbiMFC2YWxGPSfrQKBgQC9nJF/xtYOGXi8ukP6\nWx0p9y5C4WzLbA/b9lOMD11c99C58ITpBlc/RYqiVxRvyvmyc/aEX3kMHULi5A2n\nO14sI3uMHIyJXUtyCkruUgDcQo7oSA1yV23QpU58r6rwrOQBjLdws3rYuRA0K0jU\nQ34fK8Ta45EVupmy1ko4uHOQ8wKBgQC9UEPlKNPZYYRHQjk3wDVxY/A+rCUIgsDu\nNIFeNSIAIOV8hI88vWQxWtyzhu6zGJTScSvFNr6L/Bun6KFrdHj5SEJBjXlBfue3\nSvaNQd8Vk2k29Lg0j+yZKs4tKYayWPQaiQaNeL/Pr2x8WFnb1kixupp44KhNJvCB\nMHtf2N6hRQKBgHSdAFcngKp3O+xGWlx1AQC4RrlXTsPlF/PeERAIuxDcUICqzfNK\ntQnyyQqCp80BdoQsEabj2Nx8epB0VXlOZ+KZh/hp7nzk5eujLOZZhLHyNVXiSnLS\nFnXF1PmWSHlwu2HAm2ky2RDE8JRFMqtpPv4Iuy8r2iUU+EYmyMsNlfXFAoGACVMW\nxQbJyH9BILFmWBSjjT466xtXh5/JGPKFHLrJPfBg3U06MOezM6siC8WtpCylx+fD\nHCeiIwr74b1Xlg9algy1Fr19J3i0uRZ8JmEEN+/W0toi6JPeN30gQqE0/TvcaiIt\nrHIyIGynj0haxLU9R2PFkAagw4wTdImKyiHIdXECgYBjor9ihXcrViqBOSlAY0bx\nAWANdIqA5lS3AXoKUl4JOKLkfyYNIIAO9dfd+uEJhWF5HGBqr9wkA+RQp3eJ1x2c\nUslCYonG0xkkL6UxZ5j/PZ/zwgQfiD0aG/K2TmYaXkAWtG4wuW/8k8XFbUGxl4/A\nLPo4xcG4wjcEc8F+ghz7JA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-for-pub-sub@esoteric-dryad-417202.iam.gserviceaccount.com",
+  "client_id": "107481254803857911710",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-for-pub-sub%40esoteric-dryad-417202.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
